@@ -4,7 +4,8 @@
   "description": "",
   "main": "task.js",
   "scripts": {
-    "test": "mocha tests/task-test.js"
+    "test": "mocha tests/task-test.js",
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/kellyluo/taskManager/issues"
   },
-  "homepage": "https://github.com/kellyluo/taskManager#readme"
+  "homepage": "https://github.com/kellyluo/taskManager#readme",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "express": "^4.15.5",
+    "mongoose": "^4.11.13"
+  }
 }
