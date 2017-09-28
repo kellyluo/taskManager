@@ -1,0 +1,19 @@
+{
+  "name": "taskmanagerapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task.js",
+  "scripts": {
+    "test": "mocha tests/task-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kellyluo/taskManager.git"
+  },
+  "author": "kelly luo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kellyluo/taskManager/issues"
+  },
+  "homepage": "https://github.com/kellyluo/taskManager#readme"
+}
