@@ -1,5 +1,5 @@
 {
-  "name": "taskmanagerapi",
+  "name": "taskmanager",
   "version": "1.0.0",
   "description": "",
   "main": "task.js",
@@ -18,10 +18,12 @@
   },
   "homepage": "https://github.com/kellyluo/taskManager#readme",
   "devDependencies": {
+    "express": "^4.16.1",
     "nodemon": "^1.12.1"
   },
   "dependencies": {
-    "express": "^4.15.5",
-    "mongoose": "^4.11.13"
+    "express": "^4.16.1",
+    "mongoose": "^4.11.13",
+    "body-parser": "^1.15.2"
   }
 }
