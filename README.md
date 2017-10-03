@@ -1,5 +1,5 @@
 # taskManager
-Welcome to this Task Manager! - A Node/Angular/MongoDB Application.
+Welcome to this Task Manager! - A Simple Node/Angular/MongoDB Application.
 
 1. git clone this repository
 2. npm install
